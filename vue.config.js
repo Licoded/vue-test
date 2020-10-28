@@ -1,6 +1,6 @@
 module.exports = {
   devServer: {
-    port: 8000,
+    port: 8100,
     proxy: {
       // 代理转发，解决跨域请求问题
       "/api": {
